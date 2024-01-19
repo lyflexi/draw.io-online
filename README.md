@@ -1,2 +1,2 @@
 # draw.io-online
-personal drawing
+本仓库仅当作图床使用（https://www.drawio.com/）
